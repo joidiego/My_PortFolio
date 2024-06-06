@@ -88,12 +88,12 @@ function Footer() {
   return (
     <FooterContainer>
       <FooterWrapper>
-        <Logo>Rishav Chanda</Logo>
+        <Logo>Joi Diego Napitupulu</Logo>
         <Nav>
           <NavLink href="#about">About</NavLink>
           <NavLink href="#skills">Skills</NavLink>
           <NavLink href="#experience">Experience</NavLink>
-          <NavLink href="#projects">Projects</NavLink>
+          <NavLink href="#projects">Project</NavLink>
           <NavLink href="#education">Education</NavLink>
         </Nav>
         <SocialMediaIcons>
@@ -103,7 +103,7 @@ function Footer() {
           <SocialMediaIcon href={Bio.insta} target="display"><InstagramIcon /></SocialMediaIcon>
         </SocialMediaIcons>
         <Copyright>
-          &copy; 2023 Rishav Chanda. All rights reserved.
+          &copy; 2022 Joi Diego Napitupulu
         </Copyright>
 
       </FooterWrapper>
